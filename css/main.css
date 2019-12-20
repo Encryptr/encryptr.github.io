@@ -118,6 +118,7 @@ body {
 }
 .preview-box-img {
   height:80%;
+  max-width:95%;
   box-shadow:2px 2px 10px rgba(0, 0, 0, 0.5);
 }
 
