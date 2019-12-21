@@ -110,7 +110,7 @@ body {
   top:2%;
   left:2%;
   font-family:"Roboto", sans-serif;
-  font-size:14pt;
+  font-size:18pt;
   color:#00b6ff;
   z-index:2;
   opacity:0;
@@ -161,14 +161,12 @@ body {
   opacity:1;
   transition:opacity 0.5s;
 }
-
-
 .info-link img {
   height:20%;
 }
 .info-text {
   padding:20px;
   font-family:"Roboto", sans-serif;
-  font-size:12pt;
+  font-size:15pt;
   color:rgb(240, 240, 240);
 }
